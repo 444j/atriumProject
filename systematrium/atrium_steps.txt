@@ -1,0 +1,44 @@
+Gemini said
+You're very welcome! Getting that bridge between Django and React to work is the hardest part of any Full-Stack project—you should be proud of getting it sorted.
+
+Now that your Flights and Hotels are talking to each other, your dashboard is officially "Live."
+
+What’s the next move for the Atrium project?
+
+The "Book Now" Logic: Making that button actually create a new booking in the database.
+
+Tour Packages: Adding a third section for those all-inclusive deals.
+
+Styling: Making the dashboard look like a premium travel site (adding images, better colors, etc.).
+
+Let me know whenever you're ready to add the next feature!
+
+
+1. Open your Django Backend
+Open your terminal (Command Prompt or VS Code terminal).
+
+Navigate to your project folder:
+cd C:\Users\juswa\atrium_project
+
+(Optional) Activate your virtual environment if you use one.
+
+Start the server:
+
+Bash
+python manage.py runserver
+Keep this terminal open.
+
+2. Open your React Frontend
+Open a second terminal window.
+
+Navigate to your frontend folder:
+cd C:\Users\juswa\atrium_project\atrium-frontend
+
+Start the React app:
+
+Bash
+npm start
+This will automatically open your browser to http://localhost:3000.
+
+3. Log In
+Since we fixed the database and the code, your admin / admin12345 credentials will be waiting for you.
